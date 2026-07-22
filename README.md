@@ -12,14 +12,12 @@ Each source file focuses on one algorithm and includes comments about its time c
 
 ```text
 .
-├── binary.cpp
 ├── binarysearch.cpp
 ├── bubblesort.cpp
 ├── countingsort.cpp
 ├── heapsort.cpp
 ├── insertionsort.cpp
 ├── jumpsearch.cpp
-├── linear-sequential.cpp
 ├── linear-sequentialsearch.cpp
 ├── mergesort.cpp
 ├── quicksort.cpp
